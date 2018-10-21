@@ -1,0 +1,5 @@
+com\xcc\shop\controller\UserController.class
+com\xcc\shop\DemoApplication.class
+com\xcc\shop\model\User.class
+com\xcc\shop\mapper\UserMapper.class
+com\xcc\shop\service\UserService.class
